@@ -1,4 +1,4 @@
-# mark-a-markdown
+# make-a-markdown
 
 Quickly create a Markdown file and get cracking on your to-be most popular article ever.
 
